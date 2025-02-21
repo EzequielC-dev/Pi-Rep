@@ -1,2 +1,5 @@
 # Pi-Rep
-This is my PI repository.
+
+Esse repositório é pra aula de Pi
+
+Alteração feita no diretório local
